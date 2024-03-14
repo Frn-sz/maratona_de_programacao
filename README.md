@@ -8,4 +8,7 @@ Repositório para elaboração das questões da maratona de programação IFSUL
   - Questão adicionada na pasta de Técnico->NvlDíficil e Superior->NvlMédio
 
 - 14/03/2024
+
   - Adicionado cabeçado da questão sobre a sequência de fibonacci.
+  - Adicionada questão de poker no bar, regras de negocio e pilha.
+   |- Superior->Difícil
