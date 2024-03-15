@@ -9,7 +9,7 @@ Repositório para elaboração das questões da maratona de programação IFSUL
 
 - 14/03/2024
 
-  - Adicionado cabeçado da questão sobre a sequência de fibonacci.
+  - Adicionado cabeçalho da questão sobre a sequência de fibonacci.
   - Adicionada questão de poker no bar, regras de negocio e pilha.
    |- Superior->Difícil
 - 15/03/2024
