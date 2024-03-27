@@ -17,3 +17,7 @@ Repositório para elaboração das questões da maratona de programação IFSUL
   - Adicionado cabeçalho da questão sobre validação de CPF
 - 16/03/2024
   - Adicionado resolução das questões de fibonacci e validação de cpf
+
+- 27/03/2024
+  - Adicionado cabeçalho e solução de "logaritmo".
+    |- Técnico -> Fácil -> logaritmo
