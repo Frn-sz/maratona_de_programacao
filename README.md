@@ -21,3 +21,6 @@ Repositório para elaboração das questões da maratona de programação IFSUL
 - 27/03/2024
   - Adicionado cabeçalho e solução de "logaritmo".
     |- Técnico -> Fácil -> logaritmo
+
+  - Adicionado cabeçalho e solução de "poker".
+    |- Superior -> Fácil -> poker
