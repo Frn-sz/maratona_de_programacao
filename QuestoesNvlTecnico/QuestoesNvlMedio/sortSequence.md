@@ -5,8 +5,8 @@
 ### Objetivo: 
 Seu objetivo consiste em ordenar as partes do array divididas em zero de acordo com suas respectivas somas, sendo em ordem crescente:
 
-* Demonstração:
-__Exemplo: [3,2,1,0,5,6,4,0,1,5,3,0]__
+* Demonstração:\
+__Exemplo: [3,2,1,0,5,6,4,0,1,5,3,0]__\
 __Partes e somas: [3,2,1,0] = 6, [5,6,4,0] = 15, [1,5,3,0] = 9__\
 __Ordenação: [3,2,1,0], [1,5,3,0], [5,6,4,0]__
 
