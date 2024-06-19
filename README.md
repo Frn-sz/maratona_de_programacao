@@ -14,7 +14,7 @@ Repositório para elaboração das questões da maratona de programação IFSUL
 
 ## Questões Superior
 ### Fácil:
-  - Cesar
+  - Cifra de Cesar
   - CPF
   - Fibonacci
   - Poker
