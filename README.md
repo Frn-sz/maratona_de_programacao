@@ -5,11 +5,11 @@ Repositório para elaboração das questões da maratona de programação IFSUL
 ## Número de questões atuais
 
 - 4/4 Superior Fácil
-- 1/4 Superior Médio
+- 2/4 Superior Médio
 - 1/2 Superior Difícil
 
 - 4/4 Técnico Fácil
-- 3/4 Técnico Médio
+- 4/4 Técnico Médio
 - 1/2 Técnico Difícil
 
 ## Questões Superior
@@ -24,6 +24,7 @@ Repositório para elaboração das questões da maratona de programação IFSUL
 ### Médio:
 
 - Método Monte Carlo
+- A Velha
 
 ### Difícil:
 
@@ -41,10 +42,12 @@ Repositório para elaboração das questões da maratona de programação IFSUL
 - Fatorial
 
 ### Médio:
+
   - AVL
   - Sort Sequence
   - Two Sum
   - Remover BiTree
+
 ### Difícil:
 
 - Método Monte Carlo
