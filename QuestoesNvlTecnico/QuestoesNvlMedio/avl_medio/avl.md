@@ -11,7 +11,7 @@ Diante deste problema foi desenvolvida a AVL, que é uma árvore binária de bus
 da quantidade de itens adicionado à ela, sempre sua altura será de h <= 1 iy h >= -1. Para a AVL ser auto-balanceável,
 ela deve se re-organizar de acordo com a necessidade na insersão de um novo nó.
 
-Crie um programa que gere uma AVL genérica (suporta todo tipo de dado) e receba até 7 insersões pela entrada de dados
+Crie um programa que gere uma AVL de inteiros e receba até 7 insersões pela entrada de dados
 padrão do sistema operacional e imprima-a na tela em pré-ordem.
 
 Em caso de entrada inválida, deve-se retornar uma mensagem de erro.
@@ -19,9 +19,7 @@ Em caso de entrada inválida, deve-se retornar uma mensagem de erro.
 ## Exemplo de entrada:
 input¹: 5 7 8 9 1 10 3
 
-input²: "Flo" "Gio" "Albert" "Gil" "Bernart"
 
 ## Exemplo de saída:
 Output¹: 1 3 5 7 8 9 10
 
-Output²: "Albert" "Bernart" "Flo" "Gil" "Gio"
