@@ -35,6 +35,7 @@ Repositório para elaboração das questões da maratona de programação IFSUL
   - AVL
   - Sort Sequence
   - Two Sum
+  - Remover BiTree
 ### Difícil:
   - Método Monte Carlo
 ---

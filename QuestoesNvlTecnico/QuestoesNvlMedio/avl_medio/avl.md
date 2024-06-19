@@ -1,4 +1,4 @@
-#Arvore Binária
+#AVL
 No mundo da programação as árvores são utilizadas em muitas partes de um software e de um sistema operacional,
 desde simples ordenação de dados para serem buscados até estrutura de diretórios. Uma árvore bastante conhecida
 é a árvore de busca binária, onde A contém apenas n=2 sendo n >= r ou n <= r, todo n >= r cai para a direita e
