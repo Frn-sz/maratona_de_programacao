@@ -2,6 +2,16 @@
 
 Repositório para elaboração das questões da maratona de programação IFSUL
 
+## Número de questões atuais
+
+- 4/4 Superior Fácil
+- 1/4 Superior Médio
+- 1/2 Superior Difícil
+
+- 2/4 Técnico Fácil
+- 3/4 Técnico Médio
+- 1/2 Técnico Difícil
+
 - 13/03/2024
 
   - Adicionada questão da estimativa de π através do método de Monte Carlo
@@ -16,9 +26,11 @@ Repositório para elaboração das questões da maratona de programação IFSUL
 - 15/03/2024
   - Adicionado cabeçalho da questão sobre validação de CPF
 - 16/03/2024
+
   - Adicionado resolução das questões de fibonacci e validação de cpf
 
 - 27/03/2024
+
   - Adicionado cabeçalho e solução de "logaritmo".
     |- Técnico -> Fácil -> logaritmo
 
