@@ -12,6 +12,35 @@ Repositório para elaboração das questões da maratona de programação IFSUL
 - 3/4 Técnico Médio
 - 1/2 Técnico Difícil
 
+## Questões Superior
+### Fácil:
+  - Cifra de Cesar
+  - CPF
+  - Fibonacci
+  - Poker
+
+### Médio:
+  - Método Monte Carlo
+
+### Difícil:
+  - Poker De Bar
+---
+## Questões Técnico
+### Fácil:
+  - Diamantes
+  - Fibonacci
+  - Logaritmo
+  - 
+### Médio:
+  - AVL
+  - Sort Sequence
+  - Two Sum
+### Difícil:
+  - Método Monte Carlo
+---
+
+## Histórico.
+
 - 13/03/2024
 
   - Adicionada questão da estimativa de π através do método de Monte Carlo
