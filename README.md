@@ -8,36 +8,47 @@ Repositório para elaboração das questões da maratona de programação IFSUL
 - 1/4 Superior Médio
 - 1/2 Superior Difícil
 
-- 2/4 Técnico Fácil
+- 4/4 Técnico Fácil
 - 3/4 Técnico Médio
 - 1/2 Técnico Difícil
 
 ## Questões Superior
+
 ### Fácil:
-  - Cifra de Cesar
-  - CPF
-  - Fibonacci
-  - Poker
+
+- Cifra de Cesar
+- CPF
+- Fibonacci
+- Poker
 
 ### Médio:
-  - Método Monte Carlo
+
+- Método Monte Carlo
 
 ### Difícil:
-  - Poker De Bar
+
+- Poker De Bar
+
 ---
+
 ## Questões Técnico
+
 ### Fácil:
-  - Diamantes
-  - Fibonacci
-  - Logaritmo
-  - 
+
+- Diamantes
+- Fibonacci
+- Logaritmo
+- Fatorial
+
 ### Médio:
   - AVL
   - Sort Sequence
   - Two Sum
   - Remover BiTree
 ### Difícil:
-  - Método Monte Carlo
+
+- Método Monte Carlo
+
 ---
 
 ## Histórico.
