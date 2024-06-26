@@ -6,7 +6,7 @@ Repositório para elaboração das questões da maratona de programação IFSUL
 
 - 4/4 Superior Fácil
 - 4/4 Superior Médio
-- 1/2 Superior Difícil
+- 2/2 Superior Difícil
 
 - 4/4 Técnico Fácil
 - 4/4 Técnico Médio
@@ -31,6 +31,7 @@ Repositório para elaboração das questões da maratona de programação IFSUL
 ### Difícil:
 
 - Poker De Bar
+- Batalha Naval
 
 ---
 
