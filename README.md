@@ -5,7 +5,7 @@ Repositório para elaboração das questões da maratona de programação IFSUL
 ## Número de questões atuais
 
 - 4/4 Superior Fácil
-- 3/4 Superior Médio
+- 4/4 Superior Médio
 - 1/2 Superior Difícil
 
 - 4/4 Técnico Fácil
@@ -26,6 +26,7 @@ Repositório para elaboração das questões da maratona de programação IFSUL
 - Método Monte Carlo
 - A Velha
 - Jogo da Vida
+- Ordenando Renas
 
 ### Difícil:
 
